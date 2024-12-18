@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nosso Relacionamento</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Nosso Amor</h1>
+    <p>Estamos juntos há:</p>
+    <h2 id="timer">0 anos, 0 meses, 0 dias</h2>
+    <p>Desde <strong>15 de junho de 2020</strong> ❤️</p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
